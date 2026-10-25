@@ -1,0 +1,43 @@
+# 构建产物
+apk/out/
+apk/build/
+*.apk
+*.idsig
+*.dex
+*.class
+build/
+
+# 模型与语音资源（体积大，见 README「模型从哪来」）
+tts/tts.zip
+assets/tts/
+assets/asr/
+asr/asr.zip
+*.onnx
+*.zip
+
+# 运行时数据（她的记忆 / 聊天记录 / 状态 / 语音缓存）—— 这些永远不进仓库
+data/
+her/secret.txt
+her/memory.txt
+her/persona.local.txt
+memory*.txt
+*.jsonl
+voice/
+
+# 本地配置与密钥
+config.json
+.env
+pc-voice.json
+*.pem
+*.der
+*.jks
+*.keystore
+
+# 开发与临时
+_tmp/
+_backups/
+_delivery/
+node_modules/
+*.log
+.DS_Store
+Thumbs.db

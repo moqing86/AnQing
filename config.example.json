@@ -1,0 +1,15 @@
+﻿{
+  "apiKey": "YOUR_ZHIPU_API_KEY",
+  "model": "glm-4.5-flash",
+  "fallbackModel": "glm-4-flash",
+  "baseUrl": "https://open.bigmodel.cn/api/paas/v4",
+  "port": 3082,
+  "historyMax": 50,
+  "contextChars": 28000,
+  "proactiveMinMin": 10,
+  "proactiveMaxMin": 45,
+  "passwordHash": "22a877aa8637c96423b61602900efa7d9f0c46f2cdd3f34eabcce942a34985f7",
+  "contacts": [
+    { "id": "xiaoan", "name": "小安", "avatar": "avatar.jpg", "proactive": true }
+  ]
+}
