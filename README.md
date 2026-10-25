@@ -12,11 +12,16 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#)
 
 <p align="center">
-  <img src="docs/screenshot-chat.png" width="290" alt="Chat screen" />
-  <img src="docs/screenshot-list.png" width="290" alt="Contacts screen" />
+  <img src="docs/demo.gif" width="290" alt="Demo: contacts → chat" />
 </p>
 
-<p align="center"><sub>Screenshots use the built-in demo data (fully synthetic) — no real user data is included in this repo.</sub></p>
+<p align="center">
+  <img src="docs/screenshot-chat.png" width="250" alt="Chat screen" />
+  <img src="docs/screenshot-call.png" width="250" alt="Call screen" />
+  <img src="docs/screenshot-list.png" width="250" alt="Contacts screen" />
+</p>
+
+<p align="center"><sub>All screenshots use the built-in demo data (fully synthetic) — no real user data is included in this repo.</sub></p>
 
 ---
 
@@ -164,6 +169,12 @@ Sizes for reference: `tts.zip` ≈ 148 MB, `asr.zip` ≈ 157 MB, `libnode.so` �
 ## License
 
 [MIT](LICENSE) © 2026 Mo
+
+## Contributing
+
+Issues and PRs are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md) for build/test notes and the
+privacy rules (no real chat logs, keys or voice samples). For anything security-related, read
+[SECURITY.md](SECURITY.md) first and report privately.
 
 ## Acknowledgements
 

@@ -11,8 +11,13 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#)
 
 <p align="center">
-  <img src="docs/screenshot-chat.png" width="290" alt="聊天界面" />
-  <img src="docs/screenshot-list.png" width="290" alt="联系人界面" />
+  <img src="docs/demo.gif" width="290" alt="演示：联系人 → 聊天" />
+</p>
+
+<p align="center">
+  <img src="docs/screenshot-chat.png" width="250" alt="聊天界面" />
+  <img src="docs/screenshot-call.png" width="250" alt="通话界面" />
+  <img src="docs/screenshot-list.png" width="250" alt="联系人界面" />
 </p>
 
 <p align="center"><sub>截图使用仓库自带的 demo 数据（全部虚构），不含任何真实用户数据。</sub></p>
@@ -154,6 +159,11 @@ powershell -File scripts/build-apk.ps1
 ## 许可
 
 [MIT](LICENSE) © 2026 Mo
+
+## 参与贡献
+
+欢迎 Issue / PR —— 构建与自测方法、隐私红线（不要提交真实聊天记录、密钥、语音样本）见
+[CONTRIBUTING.md](CONTRIBUTING.md)；安全问题请先看 [SECURITY.md](SECURITY.md) 并通过私密渠道报告。
 
 ## 致谢
 
