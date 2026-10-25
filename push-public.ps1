@@ -1,4 +1,4 @@
-# 推送脚本（2026-10 · 你在终端里跑，或者把 token 给我代跑）
+﻿# 推送脚本（2026-10 · 你在终端里跑，或者把 token 给我代跑）
 # 用法：$env:GH_TOKEN="ghp_xxx"; .\push-public.ps1 -Repo "anqing"
 # 说明：本机加速器做了 TLS 中间代理 → 用 schannel（走 Windows 证书库）能过；仍报错就临时关校验。
 

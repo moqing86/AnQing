@@ -11,6 +11,13 @@ Pull the USB cable, shut down your PC, and she still works.
   <em>「她住在你手机里，不在云上。」</em>
 </p>
 
+<p align="center">
+  <img src="docs/screenshot-chat.png" width="290" alt="聊天界面" />
+  <img src="docs/screenshot-list.png" width="290" alt="联系人界面" />
+</p>
+
+<p align="center"><sub>截图来自仓库自带的 demo 数据（全部虚构），不含任何真实用户数据。</sub></p>
+
 ---
 
 ## ✨ Why it's different

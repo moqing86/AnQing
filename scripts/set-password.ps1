@@ -1,4 +1,4 @@
-# set-password.ps1 - 改掉 App 的默认密码（2026-10）
+﻿# set-password.ps1 - 改掉 App 的默认密码（2026-10）
 #
 # 这个 App 有两把"锁"，用的是**同一个密码的 sha256**：
 #   ① 原生锁：app/src/com/xiaoan/app/MainActivity.java 里的 PW_HASH（冷启动要输）
